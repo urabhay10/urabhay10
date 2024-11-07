@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👨‍💻 Abhay Upadhyay</h1>
   <div>
-    <b>AI/ML Developer</b> | <b>Competitive Programmer</b> | <b>Open Source Contributor</b>
+    <b>AI/ML Developer</b> | <b>Competitive Programmer</b> | <b>Full Stack Developer</b> | <b>Open Source Contributor</b>
   </div>
   <br>
   
