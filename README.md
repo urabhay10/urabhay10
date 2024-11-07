@@ -18,6 +18,9 @@ I'm a **sophomore** pursuing my **Bachelor's in Information Technology** at Veer
 - 💬 Ask me about **Deep Learning, Full-Stack Development**, or anything about **competitive programming**!
 - 👯 Open to collaborate on **interesting projects** - feel free to reach out with your ideas!
 
+### 🎯 Hacktoberfest 2024
+[![An image of @urabhay10's Holopin badge, which shows completion of Hacktoberfest 2023](https://holopin.me/urabhay10)](https://holopin.io/@urabhay10)
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -60,6 +63,7 @@ A novel-writing platform that uses **generative AI** for story ideas, grammar ch
   </a>
 </p>
 
+
 <div align="center">
   
   ---
@@ -67,7 +71,7 @@ A novel-writing platform that uses **generative AI** for story ideas, grammar ch
 </div>
 
 <!--
-**urabhay10/urabhay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**urabhay10/urabhay10** is a ��� _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
